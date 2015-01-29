@@ -1,0 +1,12 @@
+{
+    "name": "athlan/testproject",
+    "authors": [
+        {
+            "name": "Athlan",
+            "email": "athlan@vgroup.pl"
+        }
+    ],
+    "require": {
+        "symfony/validator": "2.6.3"
+    }
+}
